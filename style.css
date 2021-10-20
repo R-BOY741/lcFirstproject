@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+/* #picture1{
+    justify-content: center;
+    
+} */
+
+#blog-listing img{
+    height: 700px;
+    width: 900px;
+}
+
+.blog-header{
+    margin: 30px;
+    text-align: center;
+}
+
+.blog-header .text{
+    padding-left: 400px;
+    padding-right: 400px;
+}
